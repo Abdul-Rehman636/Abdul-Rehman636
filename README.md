@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Abdul Rehman</h1>
 <h3 align="center">Passionate Front-end Developer crafting experiences.</h3>
 
+<img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" align="right" alt="Coding" width="450">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdul-rehman636&label=Profile%20views&color=0e75b6&style=flat" alt="abdul-rehman636" /> </p>
 
 - 📫 How to reach me **rehmankk636@gmail.com**
