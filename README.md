@@ -1,6 +1,6 @@
 ![logo](https://github.com/Abdul-Rehman636/Abdul-Rehman636/blob/main/Github%20Profile%20Banner.png)
 <h1 align="center">Hi 👋, I'm Abdul Rehman</h1>
-<h3 align="center">Passionate Front-end Developer crafting experiences.</h3>
+<h3 align="center">Passionate Full-Stack Developer crafting experiences.</h3>
 
 <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" align="right" alt="Coding" width="450">
 
