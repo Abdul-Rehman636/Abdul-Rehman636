@@ -1,4 +1,3 @@
-![logo](https://github.com/Abdul-Rehman636/Abdul-Rehman636/blob/main/Github%20Profile%20Banner.png)
 <h1 align="center">Hi 👋, I'm Abdul Rehman</h1>
 <h3 align="center">Passionate Full-Stack Developer crafting experiences.</h3>
 
